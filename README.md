@@ -564,15 +564,4 @@ open http://localhost:3000
 - **Tests**: Add corresponding tests in `tests/`
 
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Make your changes with tests
-4. Ensure all tests pass
-5. Update documentation
-6. Submit a pull request
-
----
-
 **Enterprise-Grade Market Data Microservice with Full Observability, Security, and Operational Excellence**
